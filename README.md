@@ -22,5 +22,3 @@ This will do the following on your behalf:
 ## License
 
 The code provided in this template is licensed under the MIT License. For more information check out the [LICENSE](LICENSE) file.
-
-https://www.sourcelair.com/guides/start/c
